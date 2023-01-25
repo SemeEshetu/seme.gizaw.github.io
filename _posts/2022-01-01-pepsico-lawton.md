@@ -1,0 +1,9 @@
+---
+layout: page
+title: " "
+permalink: /professional-pepsi-lawton/
+---
+
+<img alt="PEPSICO distribution center image" align="middle" src="/assets/prof-pepsico-distribution-center-image.jpg">
+<img alt="PEPSICO distribution center drawings" align="middle" src="/assets/prof-pepsico-distribution-center-drawing.jpg">
+<a style="color:DarkSlateGray" align="right" href="{{site.url}}/portfolio/"> <small> Back </small> </a>
