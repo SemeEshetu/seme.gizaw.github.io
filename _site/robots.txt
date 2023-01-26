@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://seme.gizaw.github.io/sitemap.xml
+Sitemap: https://semegizaw.github.io/sitemap.xml
