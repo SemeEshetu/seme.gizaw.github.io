@@ -1,7 +1,7 @@
 ---
 layout: page
 title: " "
-permalink: /professional-atmos-haslet/
+permalink: /professional-atmos-haslet
 ---
 
 <img alt="ATMOS in Haslet, Texas image" align="middle" src="/assets/prof-atmos-haslet-overview.jpg">

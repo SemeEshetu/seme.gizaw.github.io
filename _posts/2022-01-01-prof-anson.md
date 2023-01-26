@@ -1,7 +1,7 @@
 ---
 layout: page
 title: " "
-permalink: /professional-anson/
+permalink: /professional-anson
 ---
 
 <img alt="Anson Elementary image" align="middle" src="/assets/prof-anson-elementary.jpg">
