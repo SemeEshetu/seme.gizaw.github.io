@@ -4,7 +4,7 @@ title: Professional
 permalink: /portfolio/
 ---
 
-<a style="color:DarkSlateGray" align="right" href="{{site.url}}/professional-pepsi-lawton/"> <small> <em> PEPSICO distribution center -- Lawton, Oklahoma  </em> </small> </a> <br>
+<a style="color:DarkSlateGray" align="right" href="{{site.url}}/professional-pepsi-lawton"> <small> <em> PEPSICO distribution center -- Lawton, Oklahoma  </em> </small> </a> <br>
 <a style="color:Black;font-size:14px;"> <small> 2022 </small> </a> <br>
 <img alt="PEPSICO distribution center image" align="middle" width="120" src="/assets/prof-pepsico-distribution-center-image.jpg">
 &nbsp; 
