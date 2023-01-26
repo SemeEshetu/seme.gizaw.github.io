@@ -1,7 +1,0 @@
----
-layout: post
----
-
-
-This is how to link to another page, like your
-<a style="color:DarkSlateGray" href="{{site.url}}/portfolio/">Portfolio</a>

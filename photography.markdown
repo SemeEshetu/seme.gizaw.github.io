@@ -5,8 +5,6 @@ permalink: /Photography/
 ---
 
 
-<img alt="Step photograph" align="middle" width="300" src="/assets/pers-steps.jpg">
+<img alt="Step photograph" align="middle" src="/assets/pers-japanese-garden.jpg">
 
-<img alt="Step photograph" align="middle" width="300" src="/assets/pers-floral.jpg">
-
-<a> <em> ...site under construction... </em> </a>
+<a style="color:DarkSlateGray" align="right" href="{{site.url}}/photography/boston-city-hall"> <small> Next </small> </a>

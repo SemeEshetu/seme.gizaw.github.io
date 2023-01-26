@@ -1,8 +1,8 @@
 ---
 layout: page
 title: " "
-permalink: /professional-anson/
+permalink: /academic-dynamics/
 ---
 
-<img alt="Thermal bath drawings" align="middle" src="/assets/academic-contentment.jpg">
+<img alt="Mult-family drawings" align="middle" src="/assets/academic-dynamics.jpg">
 <a style="color:DarkSlateGray" align="right" href="{{site.url}}/academic/"> <small> Back </small> </a>
