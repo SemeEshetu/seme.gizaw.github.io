@@ -1,7 +1,7 @@
 ---
 layout: page
 title: " "
-permalink: /professional-pepsi-lawton/
+permalink: /professional-pepsi-lawton
 ---
 
 <img alt="PEPSICO distribution center image" align="middle" src="/assets/prof-pepsico-distribution-center-image.jpg">
